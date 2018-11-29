@@ -1,0 +1,20 @@
+/**
+ * Mozilla DevRel Theme for reveal.js - Light variation.
+ *
+ * By Salvador de la Puente, http://unoyunodiez.com
+ */
+/**
+ * Mozilla DevRel Theme for reveal.js - Common properties.
+ *
+ * By Salvador de la Puente, http://unoyunodiez.com
+ */
+@import url(../../lib/font/fira-sans/fira.css);
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+/*body {
+  background-image: linear-gradient(to bottom, #D7D3C8, #F6F4EC 60%);
+  background-color: #222; }*/
+body {
+  background-image: linear-gradient(to bottom, #8bbedd, #8bbedd 60%);
+  background-color: #8bbedd}
